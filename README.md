@@ -1,2 +1,2 @@
 # BlenderLambda
-The files which are to be zipped and uploaded to lambda
+The files which are to be Dockerized and used from AWS Lambda.
